@@ -1,4 +1,4 @@
-# Python Learning
+# Python basics
 
 My Python learning journey for Data Science.
 
