@@ -1,24 +1,20 @@
-# Python Learning Journey
+# Data Science Journey
 
-My Python learning journey for Data Science
+My learning journey in Data Science
 
-## Roadmap
+## Topics
 
-- Python Basics
+- Python
 - Data Analysis
 - SQL
 - Machine Learning
 - Deep Learning
+- Mathematics
 
+## Tools
 
-## Environment
-
-Python 3.14
-
-Editor:
-Visual Studio Code
-
-
-## Projects
-
-This repository contains my practice projects and notes while learning Data Science
+- Python
+- Jupyter Notebook
+- VS Code
+- Git
+- GitHub
