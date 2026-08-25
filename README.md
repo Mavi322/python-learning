@@ -1,23 +1,24 @@
-# Python basics
+# Python Learning Journey
 
-My Python learning journey for Data Science.
+My Python learning journey for Data Science
 
-## Topics
+## Roadmap
 
 - Python Basics
-- Variables
-- Data Types
-- Conditions
-- Loops
-- Functions
-- Object-Oriented Programming
+- Data Analysis
+- SQL
+- Machine Learning
+- Deep Learning
+
 
 ## Environment
 
-Python 3.x
-
-Virtual environment:
-.venv
+Python 3.14
 
 Editor:
 Visual Studio Code
+
+
+## Projects
+
+This repository contains my practice projects and notes while learning Data Science
