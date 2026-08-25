@@ -1,0 +1,3 @@
+name = "Nikolai"
+
+name.upper()
