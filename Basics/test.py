@@ -1,3 +1,0 @@
-name = "Nikolai"
-
-name.upper()
